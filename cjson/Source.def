@@ -1,0 +1,2 @@
+LIBRARY sjcon
+EXPORTS luaopen_cjson
